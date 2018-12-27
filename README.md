@@ -12,6 +12,11 @@ You are free to adapt the posters but only under the following conditions:
 * you remove the Home Office name and logo
 * you give appropriate credit and link back to this repo
 
+Here are some examples of how the posters have been adapted by external organisations:
+
+* [Designing for those who have experienced trauma through domestic or intimate partner violence](https://bit.ly/2JkAnFA) 
+* [Designing for users with aphasia](https://bit.ly/2kVbGFm) 
+
 We welcome feedback - please [create an issue](https://github.com/UKHomeOffice/posters/issues) to feedback whether positive or negative. Otherwise you can contact the design team at the Home Office on email - [design@digital.homeoffice.gov.uk](mailto:design@digital.homeoffice.gov.uk).
 
 ## Our posters  
@@ -27,6 +32,8 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 * Motor disabilities
 * Visually impaired - low vision users
 * Visually impaired - screenreader users
+
+You can read about how the Do's and Don'ts posters were developed on our blog: https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 
 ### Discovery Alpha Beta Live
 
